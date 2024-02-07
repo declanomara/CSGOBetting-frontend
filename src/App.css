@@ -1,0 +1,9 @@
+.match-contain {
+  display: flex;
+  justify-content: center;
+}
+
+.date-header {
+  display: flex;
+  justify-content: center;
+}
